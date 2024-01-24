@@ -5,6 +5,7 @@
 
 def main():
     print("Welcome to the Calculus Calculator")
+    print("----------------------------------")
     print("You can choose between:")
     print("1. Calculus 1")
     print("2. Calculus 2")
@@ -25,6 +26,7 @@ def calculus2():
 
 def calculus3():
     print("Calculus 3")
+    print("----------")
     print("1. Dot Product")
     print("2. Cross Product")
     print("3. Unit Vector")
